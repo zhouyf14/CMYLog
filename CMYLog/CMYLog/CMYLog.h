@@ -16,4 +16,11 @@ FOUNDATION_EXPORT const unsigned char CMYLogVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <CMYLog/PublicHeader.h>
 
+@interface CMYLogger : NSObject
+
++ (void)log;
+
++ (void)logNum:(NSInteger *)num;
+
+@end
 
