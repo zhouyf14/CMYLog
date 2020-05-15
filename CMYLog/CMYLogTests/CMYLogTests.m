@@ -6,7 +6,7 @@
 //  Copyright © 2020 jojo. All rights reserved.
 //
 
-#import <XCTest/XCTest.h>
+//#import <XCTest/XCTest.h>
 
 @interface CMYLogTests : NSObject
 
